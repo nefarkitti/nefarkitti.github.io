@@ -7,7 +7,8 @@ body {
 }
 
 hr {
-    color: #444444;
+    color: rgb(40, 40, 40);
+    width: 50%;
 }
 
 .main {
@@ -25,7 +26,7 @@ hr {
     padding-left: 1rem;
     padding-right: 1rem;
     border-radius: 3px;
-}
+ }
 .navbar a:hover {
     color:rgb(249, 249, 247);
     background-color: #353535;
@@ -43,23 +44,24 @@ hr {
     box-shadow: 10px 10px 15px rgb(0 0 0 / 0.5);
     margin-bottom: 3.5rem;
     padding-bottom: 1.5rem;
+    border: 3px rgb(40, 40, 40) solid;
 }
 
 .thing a {
-    color: aqua;
+    color: rgb(36, 91, 230);
     text-decoration: none;
 }
 .thing a:hover {
-    color: rgb(98, 249, 249);
+    color: rgb(55, 112, 255);
     text-decoration: underline;
 }
 
 .info {
     position: relative;
-    color: aqua;
+    color: rgb(36, 91, 230);
 }
 
 .info a {
     text-decoration: none;
-    color: aqua;
+    color: rgb(36, 91, 230);
 }
