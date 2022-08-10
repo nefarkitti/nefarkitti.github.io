@@ -37,7 +37,7 @@ hr {
 .thing {
     background-color: #1d1d1e;
     margin: auto;
-    width: 55rem;
+    width: 85%; 
     padding: 10px;
     border-radius: 0.5rem;
     box-shadow: 10px 10px 15px rgb(0 0 0 / 0.5);
