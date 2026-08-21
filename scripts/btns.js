@@ -1,7 +1,7 @@
 const btns = document.getElementById("btns")
 
 btns.innerHTML = `
-<a href="/" target="_blank"><img src="https://nefarkitti.github.io/btnlocker/btns/nyaco.gif"></a>
+<a href=""><img src="https://nefarkitti.github.io/btnlocker/btns/nefarkitti.gif"></a>
 <a href="https://enginefanclub.github.io"><img src="https://nefarkitti.github.io/btnlocker/btns/efc.gif"></a>
 <a href="https://firee.dev" target="_blank"><img src="https://nefarkitti.github.io/btnlocker/btns/fireedev.gif"></a>
 <a href="https://iinovacore.xyz/" target="_blank"><img src="https://nefarkitti.github.io/btnlocker/btns/iinovacore.gif"></a>
