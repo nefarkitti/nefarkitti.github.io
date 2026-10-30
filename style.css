@@ -1,0 +1,58 @@
+
+body {
+    margin: 0;
+    background: rgb(218, 218, 218);
+}
+
+img {
+    image-rendering: pixelated;
+}
+
+* {
+    font-family: monospace;
+}
+
+main {
+    width: 100vw;
+    height: 100dvh;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+pre {
+    margin: 0;
+    font-size: 13px;
+    width: fit-content;
+    transform: translateX(200px) translateY(-25px);
+    z-index: 0;
+    user-select: none;
+}
+
+.btns {
+    position: absolute;
+    display: flex;
+    top: 0;
+    margin: 2px;
+    gap: 2px;
+    flex-wrap: wrap;
+    z-index: 999;
+}
+
+.comment {
+    position: absolute;
+    background: white;
+    padding: 5px 10px;
+    user-select: none;
+    left: 20px;
+    bottom: 20px;
+    box-shadow: inset 0px 0px 1px black;
+    border: 1px solid lightgray;
+    z-index: 2;
+}
+
+a {
+    color: rgb(255, 83, 112);
+    font-weight: 900;
+}
