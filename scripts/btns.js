@@ -5,5 +5,6 @@ btns.innerHTML = `
 <a href="https://efc.nefarkitti.dev" target="_blank"><img src="https://nefarkitti.github.io/btnlocker/btns/efc.gif"></a>
 <a href="https://firee.dev" target="_blank"><img src="https://nefarkitti.github.io/btnlocker/btns/fireedev.gif"></a>
 <a href="https://iinovacore.xyz/" target="_blank"><img src="https://nefarkitti.github.io/btnlocker/btns/iinovacore.gif"></a>
+<a href="https://cat4.net" target="_blank"><img src="/assets/buttons/cat4.gif"></a>
 <a href="https://mikeklubnika.com/" target="_blank"><img src="https://mikeklubnika.com/static/resources/mikeklubnika_badge2.gif"></a>
 `
